@@ -179,7 +179,7 @@ GEM
     power_assert (2.0.4)
     public_suffix (4.0.7)
     racc (1.8.1)
-    rack (2.2.10)
+    rack (2.2.14)
     rake (12.3.3)
     regexp_parser (2.9.2)
     rexml (3.3.9)
@@ -221,7 +221,7 @@ PLATFORMS
 DEPENDENCIES
   bugsnag-maze-runner (~> 9.0)
   cocoapods
-  xcodeproj (= 1.25.1)
+  xcodeproj (< 1.26.0)
 
 BUNDLED WITH
    2.4.8
